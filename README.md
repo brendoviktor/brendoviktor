@@ -5,7 +5,7 @@
 </div>
 
 ```zsh
-joey@huang: ~/readme $ fastfetch
+root@btry0: ~/readme $ fastfetch
 ```
 
 <img src="assets/cat_L.png" align="left" alt="death note L" width="25%">
@@ -26,7 +26,7 @@ hobbies: programming
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,nodejs,react,rust,c,java,arch,neovim,git,gcp,aws,docker,postgres,mongodb" />
+    <img src="https://skillicons.dev/icons?i=c,arch,vim,git,linux" />
   </a>
 </p>
 
