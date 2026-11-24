@@ -4,7 +4,7 @@
 root@btry0: ~/readme $ fastfetch
 ```
 
-<img src="kaneki.jpg" align="left" alt="rize" width="25%">
+<img src="kaneki.jpg" align="left" alt="rize" width="25%" heigth="270">
 
 ```csharp
 ------------------------------------------------------------
