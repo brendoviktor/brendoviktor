@@ -29,5 +29,5 @@ hobbies: programming
 <div align="center">
 
 <p align="center">
-  <img src="./tokyo-ghoul.gif" width="900" height="180" alt="Tokyo Ghoul - Kaneki">
+  <img src="./tokyo-ghoul.gif" width="1200" height="300" alt="Tokyo Ghoul - Kaneki">
 </p>
