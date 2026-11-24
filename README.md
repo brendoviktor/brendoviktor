@@ -4,7 +4,7 @@
 root@btry0: ~/readme $ fastfetch
 ```
 
-<img src="assets/cat_L.png" align="left" alt="death note L" width="25%">
+<img src="rize.gif" align="left" alt="rize" width="25%">
 
 ```csharp
 ------------------------------------------------------------
