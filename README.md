@@ -12,15 +12,13 @@ joey@huang: ~/readme $ fastfetch
 
 ```csharp
 ------------------------------------------------------------
-username: jyyhuang
-whoami: programmer, code enjoyer
+username: btry0
+whoami: programmer
 pronouns: he/him
-os: arch linux
-languages: python, typescript, rust, c, java
-learning: rust
-reading: zero to production in rust
-location: philadelphia, pennsylvania, united states
-hobbies: programming, gaming, anime/manga, pokemon
+os: debian 13
+languages: c, c++
+learning: python
+hobbies: programming
 ------------------------------------------------------------
 ```
 
