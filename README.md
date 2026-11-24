@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://media.tenor.com/21341385/tenor.gif" width="400" alt="Tokyo Ghoul - Kaneki">
-</p>
 
 
 ```zsh
@@ -30,3 +27,7 @@ hobbies: programming
 </p>
 
 <div align="center">
+
+<p align="center">
+  <img src="./tokyo-ghoul.gif" width="400" alt="Tokyo Ghoul - Kaneki">
+</p>
