@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://tenor.com/pt-BR/view/tokyo-ghoul-kaneki-spider-lilies-gif-21341385" width="500">
+</p>
 ```zsh
 root@btry0: ~/readme $ fastfetch
 ```
