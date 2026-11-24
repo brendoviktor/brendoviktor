@@ -1,8 +1,3 @@
-<div align="center">
-    <p>
-        <img src="https://count.getloli.com/@jyyhuang?name=jyyhuang&theme=booru-vp&padding=4&offset=0&align=center&scale=0.8&pixelated=1&darkmode=auto" alt="jyyhuang">
-    </p>
-</div>
 
 ```zsh
 root@btry0: ~/readme $ fastfetch
