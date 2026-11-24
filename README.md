@@ -26,7 +26,7 @@ hobbies: programming
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,arch,vim,git,linux" />
+    <img src="https://skillicons.dev/icons?i=c,c++,debian,vim,git,linux" />
   </a>
 </p>
 
