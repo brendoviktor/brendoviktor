@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://tenor.com/pt-BR/view/tokyo-ghoul-kaneki-spider-lilies-gif-21341385" width="500">
+  <img src="https://media.tenor.com/21341385/tenor.gif" width="400" alt="Tokyo Ghoul - Kaneki">
 </p>
 ```zsh
 root@btry0: ~/readme $ fastfetch
